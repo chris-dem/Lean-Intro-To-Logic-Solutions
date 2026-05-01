@@ -1,0 +1,9 @@
+name = "LeanIntroToLogicSols"
+version = "0.1.0"
+
+[[lean_lib]]
+name = "LeanIntroToLogicSols"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
